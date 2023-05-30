@@ -1,7 +1,7 @@
 - 🤠 Raphaël Silly
 - 🇫🇷 Carquefou, France
 - 💻 IUT de Nantes - Informatique
-- 👨‍💻 Nouvelle technologie, devellopement d'app
+- 👨‍💻 Nouvelle technologie, developpement d'app
 - 💬 @raphou_sly
 
 <!---
