@@ -1,8 +1,7 @@
 - 🤠 Raphaël Silly
 - 🇫🇷 Carquefou, France
-- 💻 IUT de Nantes - Informatique
-- 👨‍💻 Nouvelle technologie, developpement d'app
-- 💬 @raphou_sly
+- 💻 Polytech Nantes
+- 👨‍💻 *it works on my machine*
 
 <!---
 Raphour/Raphour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
